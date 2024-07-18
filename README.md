@@ -9,8 +9,7 @@ I am an enthusiastic Python :snake: learner with expertise in Capital Markets an
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&random=false&width=435&lines=Languages+and+Tools)](https://git.io/typing-svg)
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](http://img.shilds.io](https://img.shields.io/badge/build-language-brightblue?style=flat&logo=appveyor&logoColor=green&logoSize=auto&label=SQL&labelColor=blue&color=black&cacheSeconds=3600&link=tag
-)
+
 ### Tools/Libraries:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
